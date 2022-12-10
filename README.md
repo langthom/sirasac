@@ -2,7 +2,7 @@
 This repository forms the implementation of the *Simple Random Sampling Clustering (SiRaSaC)* library.
 The goal of that library is to extract a (stratified) random sample from either an existing buffer or from a binary file.
 
-The procedure is described in our paper [Clustering large 3D volumes: A sampling-based approach](TODO).
+The procedure is described in our paper [Clustering large 3D volumes: A sampling-based approach](/paper/BINDT22_Paper_Lang.pdf).
 
 ## Building sirasac
 Building the C library is done via CMake, please check the options therein.
